@@ -53,7 +53,14 @@ Preprocessing yang dilakukan :
     <img size ="10%" src="Netherlands.jpg">
 </p>
 
-<p>Support yang tinggi menandakan bahwa produk antecedents dan consequent sangat populer, confidence yang tinggi menandakan bahwa adanya hubungan asosiasi yang kuat antara produk antecedents dengan consequent. Lift ratio mengukur seberapa penting rule yang telah terbentuk berdasarkan nilai support dan confidence. Lift ratio merupakan nilai yang menunjukkan kevalidan proses transaksi dan memberikan informasi apakah benar produk dibeli bersamaan dengan produk lainnya. Transaksi dikatakan valid jika nilai lift bernilai lebih dari 1. Secara umum, berikut rumusan matematis untuk menghitung nilai-nilai tersebut. </p>
+<p>
+  <ul>
+    <li> Support yang tinggi menandakan bahwa produk antecedents dan consequent sangat populer, </li>
+    <li> confidence yang tinggi menandakan bahwa adanya hubungan asosiasi yang kuat antara produk antecedents dengan consequent. </li> 
+    <li> Lift ratio mengukur seberapa penting rule yang telah terbentuk berdasarkan nilai support dan confidence. Lift ratio merupakan nilai yang menunjukkan kevalidan proses transaksi dan memberikan informasi apakah benar produk dibeli bersamaan dengan produk lainnya. </li> 
+  </ul>
+Transaksi dikatakan valid jika nilai lift bernilai lebih dari 1. Secara umum, berikut rumusan matematis untuk menghitung nilai-nilai tersebut. 
+</p>
 
 <p align="center">
     <img size ="10%" src="Score.jpg">
@@ -61,8 +68,6 @@ Preprocessing yang dilakukan :
 
 
 ## Rekomendasi
-Pada negara United Kingdom, terlihat bahwa produk jumbo bag pink polkadot dengan jumbo bag red retrospot dapat dijadikan suatu paketan (bundle) karena memiliki nilai support, confidence dan lift yang tinggi. 
 Pada negara Netherlands, dolly girl lunch box, spaceboy lunch box, dan round snack boxes set of 4 woodland dapat dijadikan suatu paketan (bundle). 
-Pada negara Eire, green regency teacup and saucer, roses regency teacup and saucer, regency cakestand 3 tier, dan pink regency teacup and saucer dapat dijadikan suatu paketan (bundle).
 
 Selain itu, dapat juga untuk item-item yang memiliki rules lift tinggi untuk diletakan berdekatan
