@@ -56,7 +56,7 @@ Preprocessing yang dilakukan :
 <p>
   <ul>
     <li> Support yang tinggi menandakan bahwa produk antecedents dan consequent sangat populer, </li>
-    <li> confidence yang tinggi menandakan bahwa adanya hubungan asosiasi yang kuat antara produk antecedents dengan consequent. </li> 
+    <li> confidence yang tinggi menandakan bahwa adanya hubungan asosiasi yang kuat antara produk antecedents dengan consequent, </li> 
     <li> Lift ratio mengukur seberapa penting rule yang telah terbentuk berdasarkan nilai support dan confidence. Lift ratio merupakan nilai yang menunjukkan kevalidan proses transaksi dan memberikan informasi apakah benar produk dibeli bersamaan dengan produk lainnya. </li> 
   </ul>
 Transaksi dikatakan valid jika nilai lift bernilai lebih dari 1. Secara umum, berikut rumusan matematis untuk menghitung nilai-nilai tersebut. 
@@ -70,4 +70,4 @@ Transaksi dikatakan valid jika nilai lift bernilai lebih dari 1. Secara umum, be
 ## Rekomendasi
 Pada negara Netherlands, dolly girl lunch box, spaceboy lunch box, dan round snack boxes set of 4 woodland dapat dijadikan suatu paketan (bundle). 
 
-Selain itu, dapat juga untuk item-item yang memiliki rules lift tinggi untuk diletakan berdekatan
+Selain itu, dapat juga untuk item-item yang memiliki rules lift tinggi untuk diletakan berdekatan.
