@@ -71,3 +71,9 @@ Transaksi dikatakan valid jika nilai lift bernilai lebih dari 1. Secara umum, be
 Pada negara Netherlands, dolly girl lunch box, spaceboy lunch box, dan round snack boxes set of 4 woodland dapat dijadikan suatu paketan (bundle). 
 
 Selain itu, dapat juga untuk item-item yang memiliki rules lift tinggi untuk diletakan berdekatan.
+
+## Referensi
+<ul>
+  <li> https://en.wikipedia.org/wiki/Association_rule_learning </li>
+  <li> Rahmawati, Nadya dan Nasution, Yuki N. 2017 "Aplikasi Data Mining Market Basket Analysis untuk Menemukan Pola Pembelian di Toko Metro Utama Balikpapan". Jurnal EKSPONENSIAL Volume 8, Nomor 1, Mei 2017. Hal 1-7. </li>
+</ul>
