@@ -77,3 +77,9 @@ Selain itu, dapat juga untuk item-item yang memiliki rules lift tinggi untuk dil
   <li> https://en.wikipedia.org/wiki/Association_rule_learning </li>
   <li> Rahmawati, Nadya dan Nasution, Yuki N. 2017 "Aplikasi Data Mining Market Basket Analysis untuk Menemukan Pola Pembelian di Toko Metro Utama Balikpapan". Jurnal EKSPONENSIAL Volume 8, Nomor 1, Mei 2017. Hal 1-7. </li>
 </ul>
+
+## Info
+Notebook berisikan salah satu metode yang dipakai dalam suatu lomba Data Science di Indonesia oleh tim yang beranggotakan :
+- Gabrielle Christy
+- Rheco Paradhika K.
+- Yusuf Firdaus A. <br>
